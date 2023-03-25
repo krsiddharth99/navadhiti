@@ -1,6 +1,6 @@
 # ScreenShot of Application
 
-<img src="" alt="" />
+<img src="https://github.com/krsiddharth99/navadhiti/blob/master/public/scrn_shots.png" alt="screenshots" />
 
 # Getting Started with Create React App
 
