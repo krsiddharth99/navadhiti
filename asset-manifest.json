@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/navadhiti/static/css/main.0801c940.css",
+    "main.js": "/navadhiti/static/js/main.42e075b4.js",
+    "index.html": "/navadhiti/index.html",
+    "main.0801c940.css.map": "/navadhiti/static/css/main.0801c940.css.map",
+    "main.42e075b4.js.map": "/navadhiti/static/js/main.42e075b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0801c940.css",
+    "static/js/main.42e075b4.js"
+  ]
+}
